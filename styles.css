@@ -215,7 +215,7 @@ header a{
     margin: auto;
     justify-content: space-around;
     margin-bottom: 75px;
-    border: 1px solid red;
+    
     
 }
 .people-cards{
@@ -275,6 +275,7 @@ header a{
     background-size: cover;
     min-width: 300px;
     height: 740px;
+    margin-bottom:45px;
 }
 /* Section-6 End*/
 
